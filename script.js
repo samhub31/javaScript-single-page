@@ -1,0 +1,1 @@
+let btn = document.getElementById("head").innerHTML = "My Single Page Javascript"
